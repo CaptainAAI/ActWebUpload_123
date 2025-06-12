@@ -7,4 +7,5 @@ list file sesudah upload :
 file sesudah delete : 
 ![image](https://github.com/user-attachments/assets/9322c8a5-19e9-4fbe-9464-3bc72619447d)
 sesudah download : 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e1f558ce-a7a0-40d7-b3b1-05d6653f8969)
+
